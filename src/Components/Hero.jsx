@@ -21,7 +21,7 @@ const Hero = () => {
       </video>
 
       {/* Dark Overlay */}
-      <div className="absolute inset-0 bg-[#0B1F3A] " />
+      <div className="absolute inset-0 bg-[#0B1F3A] bg-opacity-95" />
 
       {/* Grid texture */}
       <div

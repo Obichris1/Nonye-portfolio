@@ -138,7 +138,7 @@ const ExperienceCard = ({ experience }) => {
 
 const Experience = () => {
   return (
-    <section  id='work' className="bg-[#0B1F3A] py-20 px-4">
+    <section  id='work' className="bg-[#151f3e]  py-20 px-4">
       <motion.div variants={textVariant()} initial="hidden" whileInView="show">
 
         {/* Eyebrow */}
